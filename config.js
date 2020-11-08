@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+exports.SecretKey = exports.SmsExpireTime = exports.MaxNumber = exports.MinNumber = void 0;
+var MinNumber = 10000;
+exports.MinNumber = MinNumber;
+var MaxNumber = 99999;
+exports.MaxNumber = MaxNumber;
+var SmsExpireTime = 60;
+exports.SmsExpireTime = SmsExpireTime;
+var SecretKey = 'skjdhws8904w3biusdb928nisbdamiraliali';
+exports.SecretKey = SecretKey;
